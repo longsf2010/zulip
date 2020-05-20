@@ -72,7 +72,7 @@ google-api-python-client==1.6.2
 
 # Needed for the email mirror
 html2text==2016.9.19
-httplib2==0.10.3
+httplib2==0.18.0
 -e git+https://github.com/umairwaheed/talon.git@7d8bdc4dbcfcc5a73298747293b99fe53da55315#egg=talon==1.2.11
 
 # Needed for JWT-based auth
