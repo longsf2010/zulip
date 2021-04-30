@@ -119,7 +119,7 @@ idna==2.6
 urllib3==1.22
 
 requests_oauthlib==0.8.0
-rsa==3.4.2
+rsa==4.7
 
 # Dependencies of our API
 simplejson==3.11.1
