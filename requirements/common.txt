@@ -13,7 +13,7 @@ MarkupSafe==1.0
 Pygments==2.2.0
 
 # Needed for manage.py
-ipython==6.1.0
+ipython==7.16.3
 
 # Needed for Image Processing
 Pillow==4.2.1
