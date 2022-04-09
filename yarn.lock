@@ -3002,7 +3002,11 @@ jquery-validation@1.16.0:
   dependencies:
     jquery "^1.7 || ^2.0 || ^3.1"
 
-jquery@2.2.3, "jquery@^1.7 || ^2.0 || ^3.1":
+jquery@3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.2.1.tgz#5c4d9de652af6cd0a770154a631bba12b015c787"
+
+"jquery@^1.7 || ^2.0 || ^3.1":
   version "2.2.3"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-2.2.3.tgz#45e07e4190334de36c9e1a64b43b1f1373d91758"
 
@@ -3514,9 +3518,9 @@ moment-timezone@0.5.12:
   dependencies:
     moment ">= 2.9.0"
 
-moment@2.18.1, "moment@>= 2.9.0":
-  version "2.18.1"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.18.1.tgz#c36193dd3ce1c2eed2adb7c802dbbc77a81b1c0f"
+moment@2.29.2, "moment@>= 2.9.0":
+  version "2.29.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.2.tgz#00910c60b20843bcba52d37d58c628b47b1f20e4"
 
 monotone-convex-hull-2d@^1.0.1:
   version "1.0.1"
