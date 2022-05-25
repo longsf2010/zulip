@@ -76,7 +76,7 @@ httplib2==0.10.3
 -e git+https://github.com/umairwaheed/talon.git@7d8bdc4dbcfcc5a73298747293b99fe53da55315#egg=talon==1.2.11
 
 # Needed for JWT-based auth
-PyJWT==1.5.2
+PyJWT==2.4.0
 
 # Needed for including other markdown files for user docs
 markdown-include==0.5.1
