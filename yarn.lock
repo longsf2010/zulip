@@ -3002,7 +3002,11 @@ jquery-validation@1.16.0:
   dependencies:
     jquery "^1.7 || ^2.0 || ^3.1"
 
-jquery@2.2.3, "jquery@^1.7 || ^2.0 || ^3.1":
+jquery@3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.2.1.tgz#5c4d9de652af6cd0a770154a631bba12b015c787"
+
+"jquery@^1.7 || ^2.0 || ^3.1":
   version "2.2.3"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-2.2.3.tgz#45e07e4190334de36c9e1a64b43b1f1373d91758"
 
@@ -3508,9 +3512,9 @@ mkdirp@0.5.x, "mkdirp@>=0.5 0", mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.0, mkd
   dependencies:
     minimist "0.0.8"
 
-moment-timezone@0.5.12:
-  version "0.5.12"
-  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.12.tgz#d8d6fa51b365050de1ac7cc5c6e3fa969444edea"
+moment-timezone@0.5.35:
+  version "0.5.35"
+  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.35.tgz#6fa2631bdbe8ff04f6b8753f7199516be6dc9839"
   dependencies:
     moment ">= 2.9.0"
 
