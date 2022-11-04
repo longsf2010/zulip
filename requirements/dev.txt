@@ -5,7 +5,7 @@
 moto==1.0.1
 
 # Needed for running tools/run-dev.py
-Twisted==17.5.0
+Twisted==22.10.0
 
 # Needed for documentation links test
 Scrapy==1.4.0
