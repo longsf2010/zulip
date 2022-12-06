@@ -3002,7 +3002,11 @@ jquery-validation@1.16.0:
   dependencies:
     jquery "^1.7 || ^2.0 || ^3.1"
 
-jquery@2.2.3, "jquery@^1.7 || ^2.0 || ^3.1":
+jquery@3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.2.1.tgz#5c4d9de652af6cd0a770154a631bba12b015c787"
+
+"jquery@^1.7 || ^2.0 || ^3.1":
   version "2.2.3"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-2.2.3.tgz#45e07e4190334de36c9e1a64b43b1f1373d91758"
 
@@ -4220,8 +4224,8 @@ qs@6.4.0, qs@~6.4.0:
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.0.tgz#13e26d28ad6b0ffaa91312cd3bf708ed351e7233"
 
 qs@~6.3.0:
-  version "6.3.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.3.2.tgz#e75bd5f6e268122a2a0e0bda630b2550c166502c"
+  version "6.3.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.3.3.tgz#645c23bd6def4d552f258f0aadfeea6fd57f5a86"
 
 quat-slerp@^1.0.0:
   version "1.0.1"
